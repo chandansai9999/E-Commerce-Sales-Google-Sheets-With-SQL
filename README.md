@@ -4,8 +4,6 @@
 
 This dashboard analyzes e-commerce sales performance across cities, product categories, and customer orders. It helps identify revenue trends, profitability drivers, cancellation patterns, and customer satisfaction factors to support business decision-making.
 
----
-
 ## Business Problem
 
 E-commerce businesses often face challenges such as:
@@ -18,8 +16,6 @@ E-commerce businesses often face challenges such as:
 
 Without proper analysis, these issues can impact revenue growth and customer retention.
 
----
-
 ## Project Objective
 
 * Analyze sales and profitability performance across cities.
@@ -28,16 +24,11 @@ Without proper analysis, these issues can impact revenue growth and customer ret
 * Evaluate the impact of shipping delays on customer experience.
 * Support data-driven business decisions.
 
----
-
 ## Tools Used
 
-* SQL
-* Google Sheets
+* SQL + Google Sheets
 * Data Visualization
 * Pivot Analysis
-
----
 
 ## Key Performance Indicators (KPIs)
 
