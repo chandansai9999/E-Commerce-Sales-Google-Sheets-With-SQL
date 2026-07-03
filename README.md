@@ -60,7 +60,7 @@ This project uses a **synthetic e-commerce sales dataset** containing **2,196 or
 * Return Status
 * Return Count
 
-📁 **Dataset:** [ecommerce_sales_GoogleSheets_With_SQL.xlsx](Ecommerce_Dataset/ecommerce_sales_GoogleSheets_With_SQL.xlsx)
+**Dataset:** [ecommerce_sales_GoogleSheets_With_SQL.xlsx](Ecommerce_Dataset/ecommerce_sales_GoogleSheets_With_SQL.xlsx)
 
 ## Key Performance Indicators (KPIs)
 
