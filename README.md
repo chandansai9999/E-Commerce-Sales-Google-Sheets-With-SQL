@@ -30,6 +30,38 @@ Without proper analysis, these issues can impact revenue growth and customer ret
 * Data Visualization
 * Pivot Analysis
 
+## 📊 Dataset
+
+This project uses a **synthetic e-commerce sales dataset** containing **2,196 order records** designed to simulate real-world online retail operations.
+
+### Dataset Features
+
+* Order ID
+* Order Date
+* Customer ID
+* Customer Name
+* City
+* State
+* Product
+* Category
+* Sub-Category
+* Cost
+* MRP
+* Quantity
+* Discount
+* Revenue
+* Total Cost
+* Profit
+* Payment Method
+* Order Status
+* Delivery Date
+* Shipping Delay
+* Customer Rating
+* Return Status
+* Return Count
+
+📁 **Dataset:** [ecommerce_sales_GoogleSheets_With_SQL.xlsx](Ecommerce_Dataset/ecommerce_sales_GoogleSheets_With_SQL.xlsx)
+
 ## Key Performance Indicators (KPIs)
 
 | KPI                   | Value       |
