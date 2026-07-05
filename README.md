@@ -30,7 +30,7 @@ Without proper analysis, these issues can impact revenue growth and customer ret
 * Data Visualization
 * Pivot Analysis
 
-## 📊 Dataset
+## Dataset
 
 This project uses a **synthetic e-commerce sales dataset** containing **2,196 order records** designed to simulate real-world online retail operations.
 
@@ -60,14 +60,15 @@ This project uses a **synthetic e-commerce sales dataset** containing **2,196 or
 
 ## Key Performance Indicators (KPIs)
 
-| KPI                   | Value       |
-| --------------------- | ----------- |
-| Revenue               | ₹44.93 Lakh |
-| Average Profit Margin | 21.03%      |
-| Total Orders          | 1,198       |
-| Cancellation Rate     | 36.56%      |
-| Average Rating        | 2.91        |
-| Return Rate           | 9.08%       |
+| **KPI**                   | **Value**   | **Description**                                            |
+| ------------------------- | ----------- | ---------------------------------------------------------- |
+| **Revenue**               | ₹44.93 Lakh | Total revenue generated from all completed orders          |
+| **Average Profit Margin** | 21.03%      | Average profit earned as a percentage of revenue           |
+| **Total Orders**          | 1,198       | Total customer orders processed during the analysis period |
+| **Cancellation Rate**     | 36.56%      | Percentage of orders cancelled before successful delivery  |
+| **Average Rating**        | 2.91        | Average customer rating across all completed orders        |
+| **Return Rate**           | 9.08%       | Percentage of delivered orders returned by customers       |
+
 
 ### KPI Overview
 
