@@ -49,16 +49,12 @@ This project uses a **synthetic e-commerce sales dataset** containing **2,196 or
 * MRP
 * Quantity
 * Discount
-* Revenue
-* Total Cost
-* Profit
 * Payment Method
 * Order Status
 * Delivery Date
 * Shipping Delay
 * Customer Rating
 * Return Status
-* Return Count
 
 **Dataset:** [ecommerce_sales_GoogleSheets_With_SQL.xlsx](Ecommerce_Dataset/ecommerce_sales_GoogleSheets_With_SQL.xlsx)
 
@@ -132,11 +128,7 @@ Analyzes the relationship between shipping delays, customer ratings, and order c
 
 ## Business Recommendations
 
-* Focus marketing and inventory planning on high-performing cities.
-
 * Increase inventory availability for highly profitable categories such as Electronics.
-
-* Investigate root causes behind order cancellations during peak periods.
 
 * Improve logistics performance to reduce shipping delays.
 
